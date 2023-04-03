@@ -1,0 +1,8 @@
+﻿  find_max.cpp
+C:\Users\pis\OneDrive\바탕 화면\structure\Chapter2_Array_Class\chapter02_findmax\find_max.cpp(37,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 'D'이(가) 있습니다.
+C:\Users\pis\OneDrive\바탕 화면\structure\Chapter2_Array_Class\chapter02_findmax\find_max.cpp(37,37): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\pis\OneDrive\바탕 화면\structure\Chapter2_Array_Class\chapter02_findmax\find_max.cpp(37,37): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\pis\OneDrive\바탕 화면\structure\Chapter2_Array_Class\chapter02_findmax\find_max.cpp(42,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 'D'이(가) 있습니다.
+C:\Users\pis\OneDrive\바탕 화면\structure\Chapter2_Array_Class\chapter02_findmax\find_max.cpp(42,37): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\pis\OneDrive\바탕 화면\structure\Chapter2_Array_Class\chapter02_findmax\find_max.cpp(42,37): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  chapter02_findmax.vcxproj -> C:\Users\pis\OneDrive\바탕 화면\structure\Chapter2_Array_Class\x64\Debug\chapter02_findmax.exe
