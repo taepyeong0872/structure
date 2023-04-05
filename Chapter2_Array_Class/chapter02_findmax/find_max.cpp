@@ -39,7 +39,7 @@ int main()
 
 	int maxPixel = findMaxValue(arr, 10);
 
-	printf("배열의 최댓값=%DWn", maxPixel);
+	printf("영상의 최대 밝기=%DWn", maxPixel);
 
 	return 0;
 }
